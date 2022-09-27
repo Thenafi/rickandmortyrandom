@@ -1,4 +1,4 @@
-#rickandmortyrandom 🎃
+# rickandmortyrandom 🎃
 
 Just a simple API that returns a random Rick and Morty character or image.
 
