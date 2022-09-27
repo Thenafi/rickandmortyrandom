@@ -1,5 +1,3 @@
-# rickandmortyrandom
-
 Just a simple API that returns a random Rick and Morty character or image.
 
  - https://6g9hm8.deta.dev/random_image 🔗 for random images.
