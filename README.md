@@ -1,6 +1,6 @@
-# rickandmortyrandom
+# rickandmortyrandom 🎃
 
-Just a simple API that returns a random Rick and Morty character or image.
+Just a simple API/URL that returns a random Rick and Morty character or image.
 
  - https://6g9hm8.deta.dev/random_image 🔗 for random images.
  - https://6g9hm8.deta.dev/random_character 🔗 for random characters.
