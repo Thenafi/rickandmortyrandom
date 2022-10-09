@@ -12,7 +12,7 @@ def home():
 @app.route("/random_character", methods=["GET"])
 def random_character():
     return redirect(
-        f"https://rickandmortyapi.com/api/character/{random.randint(0, 826)}", 301
+        f"https://rickandmortyapi.com/api/character/{random.randint(0, 826)}", 302
     )
 
 
@@ -20,5 +20,5 @@ def random_character():
 def random_image():
     return redirect(
         f"https://rickandmortyapi.com/api/character/avatar/{random.randint(0, 826)}.jpeg",
-        301,
+        302,
     )
