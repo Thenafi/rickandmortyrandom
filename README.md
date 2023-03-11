@@ -11,7 +11,7 @@ Deta has stopped support for them. Please use these URLS below
  - https://rickandmorty.chest.workers.dev/random_image 🔗 for random images.
   - https://rickandmorty.chest.workers.dev/random_character 🔗 for random characters.
 
-Data is pulled from [The Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters) and hosted in DigitalOcean.
+Data is pulled from [The Rick and Morty API](https://rickandmortyapi.com/documentation/#get-all-characters) and hosted in Cloudflare.
 
 Future plan 
  - Auto update the random range.
