@@ -15,3 +15,4 @@ Data is pulled from [The Rick and Morty API](https://rickandmortyapi.com/documen
 
 Future plan 
  - Auto update the random range.
+ - Upadte the code for cloudflare 
