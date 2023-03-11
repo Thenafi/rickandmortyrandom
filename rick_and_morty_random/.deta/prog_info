@@ -1,1 +1,0 @@
-{"id":"ba43782a-6624-4226-a96f-e004a9af35b3","space":25678,"runtime":"python3.9","name":"rick_and_morty_random","path":"6g9hm8","project":"c0nn4jje","account":"144798365827","region":"ap-southeast-1","deps":["flask"],"envs":null,"public":true,"log_level":"debug","cron":""}
